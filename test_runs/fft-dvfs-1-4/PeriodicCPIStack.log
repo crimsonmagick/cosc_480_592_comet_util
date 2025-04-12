@@ -1,0 +1,897 @@
+Metric	Core0	Core1	Core2	Core3
+total	0.341	3600000.032	3600000.032	3600000.032
+base	0.250	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.004	0.000	0.000	0.000
+depend-fp	0.008	0.000	0.000	0.000
+depend-branch	-
+issue	0.015	0.000	0.000	0.000
+serial	-
+smt	-
+branch	-
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.026	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.034	3600000.032	3600000.032	3600000.032
+other	0.004	0.000	0.000	0.000
+total	0.305	1000000.009	1000000.009	1000000.009
+base	0.250	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.004	0.000	0.000	0.000
+depend-fp	0.008	0.000	0.000	0.000
+depend-branch	-
+issue	0.015	0.000	0.000	0.000
+serial	-
+smt	-
+branch	-
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.026	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	998000.009	998000.009	998000.009
+other	0.002	2000.000	2000.000	2000.000
+total	0.304	1000000.009	1000000.009	1000000.009
+base	0.250	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.004	0.000	0.000	0.000
+depend-fp	0.008	0.000	0.000	0.000
+depend-branch	-
+issue	0.015	0.000	0.000	0.000
+serial	-
+smt	-
+branch	-
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.026	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.001	0.000	0.000	0.000
+total	0.304	1000000.009	1000000.009	1000000.009
+base	0.250	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.004	0.000	0.000	0.000
+depend-fp	0.008	0.000	0.000	0.000
+depend-branch	-
+issue	0.015	0.000	0.000	0.000
+serial	-
+smt	-
+branch	-
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.026	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.001	0.000	0.000	0.000
+total	0.308	1000000.009	1000000.009	1000000.009
+base	0.250	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.004	0.000	0.000	0.000
+depend-fp	0.008	0.000	0.000	0.000
+depend-branch	-
+issue	0.015	0.000	0.000	0.000
+serial	-
+smt	-
+branch	-
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.026	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.005	0.000	0.000	0.000
+total	0.305	1000000.009	1000000.009	1000000.009
+base	0.250	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.004	0.000	0.000	0.000
+depend-fp	0.008	0.000	0.000	0.000
+depend-branch	-
+issue	0.015	0.000	0.000	0.000
+serial	-
+smt	-
+branch	-
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.026	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.002	0.000	0.000	0.000
+total	0.398	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.008	0.000	0.000	0.000
+depend-fp	0.080	0.000	0.000	0.000
+depend-branch	-
+issue	0.010	0.000	0.000	0.000
+serial	-
+smt	-
+branch	-
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.038	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.012	0.000	0.000	0.000
+total	0.424	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.012	0.000	0.000	0.000
+depend-fp	0.090	0.000	0.000	0.000
+depend-branch	-
+issue	0.007	0.000	0.000	0.000
+serial	-
+smt	-
+branch	-
+itlb	-
+dtlb	-
+ifetch	0.006	0.000	0.000	0.000
+mem	-
+mem-l1d	0.039	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.015	0.000	0.000	0.000
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.006	0.000	0.000	0.000
+total	0.420	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.014	0.000	0.000	0.000
+depend-fp	0.100	0.000	0.000	0.000
+depend-branch	-
+issue	0.005	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.007	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.034	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.004	0.000	0.000	0.000
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.007	0.000	0.000	0.000
+total	0.419	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.014	0.000	0.000	0.000
+depend-fp	0.100	0.000	0.000	0.000
+depend-branch	-
+issue	0.005	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.007	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.032	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.004	0.000	0.000	0.000
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.008	0.000	0.000	0.000
+total	0.448	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.014	0.000	0.000	0.000
+depend-fp	0.102	0.000	0.000	0.000
+depend-branch	-
+issue	0.006	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.010	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	0.008	0.000	0.000	0.000
+mem	-
+mem-l1d	0.037	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.016	0.000	0.000	0.000
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.006	0.000	0.000	0.000
+total	0.440	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.014	0.000	0.000	0.000
+depend-fp	0.104	0.000	0.000	0.000
+depend-branch	-
+issue	0.007	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.012	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.041	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.012	0.000	0.000	0.000
+total	0.442	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.015	0.000	0.000	0.000
+depend-fp	0.105	0.000	0.000	0.000
+depend-branch	-
+issue	0.008	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.013	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.042	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.011	0.000	0.000	0.000
+total	0.443	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.015	0.000	0.000	0.000
+depend-fp	0.105	0.000	0.000	0.000
+depend-branch	-
+issue	0.008	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.013	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.043	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.004	0.000	0.000	0.000
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.006	0.000	0.000	0.000
+total	0.451	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.015	0.000	0.000	0.000
+depend-fp	0.107	0.000	0.000	0.000
+depend-branch	-
+issue	0.008	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.016	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.044	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.011	0.000	0.000	0.000
+total	0.454	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.015	0.000	0.000	0.000
+depend-fp	0.109	0.000	0.000	0.000
+depend-branch	-
+issue	0.008	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.017	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.045	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.010	0.000	0.000	0.000
+total	0.455	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.015	0.000	0.000	0.000
+depend-fp	0.108	0.000	0.000	0.000
+depend-branch	-
+issue	0.009	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.017	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.045	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.011	0.000	0.000	0.000
+total	0.456	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.015	0.000	0.000	0.000
+depend-fp	0.108	0.000	0.000	0.000
+depend-branch	-
+issue	0.009	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.018	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.046	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.010	0.000	0.000	0.000
+total	0.457	1000000.009	1000000.009	1000000.009
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.015	0.000	0.000	0.000
+depend-fp	0.108	0.000	0.000	0.000
+depend-branch	-
+issue	0.009	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.019	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.047	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	-
+sync	-
+dvfs-transition	-
+imbalance	0.000	1000000.009	1000000.009	1000000.009
+other	0.010	0.000	0.000	0.000
+total	0.473	39.304	43.228	39.879
+base	0.249	0.000	0.000	0.000
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.016	0.000	0.000	0.000
+depend-fp	0.107	0.000	0.000	0.000
+depend-branch	-
+issue	0.009	0.000	0.000	0.000
+serial	-
+smt	-
+branch	0.021	0.000	0.000	0.000
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.048	0.000	0.000	0.000
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.011	0.441	0.502	0.466
+sync	0.000	38.001	41.849	38.667
+dvfs-transition	-
+imbalance	-
+other	0.011	0.862	0.877	0.746
+total	0.573	0.572	0.574	0.570
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.013	0.013	0.013	0.013
+depend-fp	0.012	0.012	0.012	0.012
+depend-branch	-
+issue	0.024	0.024	0.024	0.024
+serial	-
+smt	-
+branch	0.019	0.019	0.019	0.020
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.040	0.040	0.041	0.040
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.203	0.203	0.205	0.201
+sync	-
+dvfs-transition	-
+imbalance	-
+other	0.011	0.010	0.010	0.010
+total	0.414	0.413	0.413	0.413
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.013	0.013	0.013	0.013
+depend-fp	0.016	0.016	0.016	0.016
+depend-branch	-
+issue	0.031	0.030	0.030	0.030
+serial	-
+smt	-
+branch	0.026	0.027	0.027	0.027
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.022	0.023	0.023	0.023
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.051	0.051	0.051	0.051
+sync	-
+dvfs-transition	-
+imbalance	-
+other	0.005	0.004	0.004	0.004
+total	0.414	0.413	0.413	0.413
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.013	0.013	0.013	0.013
+depend-fp	0.016	0.016	0.016	0.016
+depend-branch	-
+issue	0.031	0.030	0.030	0.030
+serial	-
+smt	-
+branch	0.027	0.027	0.027	0.027
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.022	0.023	0.023	0.023
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.050	0.051	0.051	0.051
+sync	-
+dvfs-transition	-
+imbalance	-
+other	0.005	0.004	0.004	0.004
+total	0.413	0.413	0.413	0.413
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.013	0.013	0.013	0.013
+depend-fp	0.016	0.016	0.016	0.016
+depend-branch	-
+issue	0.031	0.030	0.030	0.030
+serial	-
+smt	-
+branch	0.027	0.027	0.027	0.027
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.022	0.023	0.023	0.023
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.050	0.051	0.050	0.051
+sync	-
+dvfs-transition	-
+imbalance	-
+other	0.005	0.004	0.004	0.004
+total	0.413	0.413	0.413	0.413
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.013	0.013	0.013	0.013
+depend-fp	0.016	0.016	0.016	0.016
+depend-branch	-
+issue	0.031	0.030	0.030	0.030
+serial	-
+smt	-
+branch	0.027	0.027	0.027	0.027
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.022	0.023	0.023	0.023
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.050	0.050	0.050	0.051
+sync	-
+dvfs-transition	-
+imbalance	-
+other	0.005	0.004	0.004	0.004
+total	0.414	0.413	0.413	0.413
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.013	0.013	0.013	0.013
+depend-fp	0.016	0.016	0.015	0.016
+depend-branch	-
+issue	0.031	0.030	0.030	0.030
+serial	-
+smt	-
+branch	0.027	0.027	0.027	0.027
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.022	0.023	0.023	0.023
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.050	0.050	0.050	0.050
+sync	-
+dvfs-transition	-
+imbalance	-
+other	0.005	0.004	0.004	0.004
+total	0.576	0.584	0.581	0.586
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.013	0.013	0.013	0.013
+depend-fp	0.012	0.011	0.011	0.011
+depend-branch	-
+issue	0.023	0.023	0.023	0.023
+serial	-
+smt	-
+branch	0.019	0.019	0.019	0.019
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.040	0.040	0.040	0.040
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.207	0.209	0.209	0.207
+sync	0.000	0.009	0.000	0.011
+dvfs-transition	-
+imbalance	-
+other	0.012	0.010	0.015	0.011
+total	0.381	0.379	0.377	0.378
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.012	0.012	0.012	0.012
+depend-fp	0.012	0.011	0.011	0.011
+depend-branch	-
+issue	0.028	0.028	0.028	0.028
+serial	-
+smt	-
+branch	0.029	0.029	0.029	0.029
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.017	0.017	0.017	0.017
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.029	0.029	0.027	0.029
+sync	-
+dvfs-transition	-
+imbalance	-
+other	0.004	0.003	0.003	0.003
+total	0.378	0.378	0.377	0.378
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.012	0.012	0.012	0.012
+depend-fp	0.012	0.011	0.011	0.011
+depend-branch	-
+issue	0.028	0.028	0.028	0.028
+serial	-
+smt	-
+branch	0.029	0.029	0.029	0.029
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.017	0.017	0.017	0.017
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.027	0.027	0.027	0.028
+sync	-
+dvfs-transition	-
+imbalance	-
+other	0.004	0.003	0.003	0.003
+total	0.378	0.377	0.377	0.377
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.012	0.012	0.012	0.012
+depend-fp	0.012	0.011	0.011	0.011
+depend-branch	-
+issue	0.028	0.028	0.028	0.028
+serial	-
+smt	-
+branch	0.029	0.029	0.029	0.029
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.017	0.017	0.017	0.017
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.027	0.027	0.027	0.027
+sync	-
+dvfs-transition	-
+imbalance	-
+other	0.004	0.003	0.003	0.003
+total	0.379	0.378	0.377	0.378
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.012	0.012	0.012	0.012
+depend-fp	0.012	0.011	0.011	0.011
+depend-branch	-
+issue	0.028	0.028	0.028	0.028
+serial	-
+smt	-
+branch	0.029	0.029	0.029	0.029
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.017	0.017	0.017	0.017
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.028	0.028	0.027	0.028
+sync	-
+dvfs-transition	-
+imbalance	-
+other	0.004	0.003	0.003	0.003
+total	0.432	0.438	0.443	0.439
+base	0.250	0.250	0.250	0.250
+dispatch_width	-
+rs_full	-
+depend	-
+depend-int	0.012	0.012	0.012	0.012
+depend-fp	0.011	0.011	0.011	0.011
+depend-branch	-
+issue	0.027	0.027	0.027	0.027
+serial	-
+smt	-
+branch	0.026	0.026	0.026	0.026
+itlb	-
+dtlb	-
+ifetch	-
+mem	-
+mem-l1d	0.022	0.022	0.022	0.022
+mem-l2	-
+mem-l3	-
+mem-l4	-
+mem-remote	-
+mem-nuca	-
+mem-dram-cache	-
+mem-dram	0.078	0.079	0.080	0.080
+sync	0.000	0.006	0.010	0.006
+dvfs-transition	-
+imbalance	-
+other	0.006	0.005	0.005	0.006

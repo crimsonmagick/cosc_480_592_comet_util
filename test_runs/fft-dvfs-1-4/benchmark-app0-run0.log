@@ -1,0 +1,50 @@
+[SPLASH] Benchmarks to run: fft
+
+[SPLASH] [========== Running benchmark fft ==========]
+[SPLASH] Setting up run directory: /home/welb/workspace/CoMeT/benchmarks/splash-tests/dvfs
+Directory exists, using the same
+[SPLASH] Running '/home/welb/workspace/CoMeT/record-trace -v --routine-tracing -o /tmp/tmpXbAnzp/run_benchmarks -e 1 -r 1 -s 0 --roi -- /home/welb/workspace/CoMeT/benchmarks/splash2/splash2/codes/kernels/fft/FFT -m18 -p4':
+[SPLASH] [---------- Beginning of output ----------]
+[RECORD-TRACE] Using the Pin frontend (sift/recorder)
+[SIFT_RECORDER] Running /home/welb/workspace/CoMeT/pin_kit/pin -mt -injection child -xyzzy -ifeellucky -t /home/welb/workspace/CoMeT/sift/recorder/obj-intel64/sift_recorder -verbose 1 -debug 0 -roi 1 -roi-mpi 0 -f 0 -d 0 -b 0 -o /tmp/tmpXbAnzp/run_benchmarks -e 1 -s 0 -r 1 -pa 0 -rtntrace 1 -stop 0 -- /home/welb/workspace/CoMeT/benchmarks/splash2/splash2/codes/kernels/fft/FFT -m18 -p4
+[SIFT_RECORDER:0:0] Output = [/tmp/tmpXbAnzp/run_benchmarks.app0.th0.sift]
+[SIFT_RECORDER:0:0] Response = [/tmp/tmpXbAnzp/run_benchmarks_response.app0.th0.sift]
+
+FFT with Blocking Transpose
+262144 Complex Doubles
+4 Processors
+65536 Cache lines
+16 Byte line size
+4096 Bytes per page
+
+[HOOKS] Entering ROI
+[SIFT_RECORDER:0] ROI Begin
+[SIFT_RECORDER:0:1] Output = [/tmp/tmpXbAnzp/run_benchmarks.app0.th1.sift]
+[SIFT_RECORDER:0:1] Response = [/tmp/tmpXbAnzp/run_benchmarks_response.app0.th1.sift]
+[SIFT_RECORDER:0:2] Output = [/tmp/tmpXbAnzp/run_benchmarks.app0.th2.sift]
+[SIFT_RECORDER:0:2] Response = [/tmp/tmpXbAnzp/run_benchmarks_response.app0.th2.sift]
+[SIFT_RECORDER:0:3] Output = [/tmp/tmpXbAnzp/run_benchmarks.app0.th3.sift]
+[SIFT_RECORDER:0:3] Response = [/tmp/tmpXbAnzp/run_benchmarks_response.app0.th3.sift]
+[SIFT_RECORDER:0:1] Recorded 28782351 instructions
+[SIFT_RECORDER:0:3] Recorded 28781814 instructions
+[SIFT_RECORDER:0:2] Recorded 28782290 instructions
+[SIFT_RECORDER:0] ROI End
+[HOOKS] Leaving ROI
+
+PROCESS STATISTICS
+Computation Transpose Transpose
+Proc Time Time Fraction
+0 12340 1525 0.12358
+
+TIMING INFORMATION
+Start time : -1844408272
+Initialization finish time : -1844388341
+Overall finish time : -1844376001
+Total time with initialization : 32271
+Total time without initialization : 12340
+Overall transpose time : 1525
+Overall transpose fraction : 0.12358
+
+[SIFT_RECORDER:0:0] Recorded 110968238 (out of 111340198) instructions
+[SPLASH] [---------- End of output ----------]
+[SPLASH] Done.
