@@ -41,6 +41,8 @@ def graph_core_memory(file_name, sample_count, x_label, y_label, title, output_f
         plt.savefig(output_file_name)
         if show_graphs:
             plt.show()
+        else:
+            plt.clf()
 
 
 def main():
@@ -87,6 +89,8 @@ def main():
         plt.savefig(f'core_frequencies')
         if show_graphs:
             plt.show()
+        else:
+            plt.clf()
         
         graph_core_memory(args.results_dir + "/combined_temperature.trace",
                           sample_count, "Time (ms)", "Temperature (C)",
