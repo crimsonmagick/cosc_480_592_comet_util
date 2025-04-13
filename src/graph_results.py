@@ -6,7 +6,7 @@ import numpy as np
 BANKS_IN_Z = 8
 
 
-def graph_core_memory(file_name, sample_count, x_label, y_label, title, output_file_name):
+def graph_core_memory(file_name, sample_count, x_label, y_label, title, output_file_name, show_graphs):
     with open(file_name) as file:
         reader = csv.DictReader(file, delimiter="\t")
         core_values = dict()
@@ -39,9 +39,8 @@ def graph_core_memory(file_name, sample_count, x_label, y_label, title, output_f
         plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.15), ncol=4)
         plt.tight_layout()
         plt.savefig(output_file_name)
-        plt.show()
-        
-        print('hi')
+        if show_graphs:
+            plt.show()
 
 
 def main():
@@ -56,7 +55,15 @@ def main():
         type=str,
         required=True,
         help='Benchmark name')
+    parser.add_argument(
+        '--show',
+        type=bool,
+        required=False,
+        default=False,
+        help='Show graphs at runtime')
     args = parser.parse_args()
+    
+    show_graphs = args.show
     
     core_frequencies = dict()
     with open(args.results_dir + "/PeriodicFrequency.log", "r") as file:
@@ -78,19 +85,16 @@ def main():
         plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.15), ncol=4)
         plt.tight_layout()
         plt.savefig(f'core_frequencies')
-        plt.show()
+        if show_graphs:
+            plt.show()
         
         graph_core_memory(args.results_dir + "/combined_temperature.trace",
                           sample_count, "Time (ms)", "Temperature (C)",
-                          f"Temperatures - {args.benchmark_name}", 'temperatures')
+                          f"Temperatures - {args.benchmark_name}", 'temperatures', show_graphs)
         graph_core_memory(args.results_dir + "/combined_power_total.trace",
                           sample_count, "Time (ms)", "Power (W)",
-                          f"Power - {args.benchmark_name}", 'power')
+                          f"Power - {args.benchmark_name}", 'power', show_graphs)
 
-print('hi')
     
-    # Reshape and average every 16 columns
-
-
 if __name__ == '__main__':
     main()
